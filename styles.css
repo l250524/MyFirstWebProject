@@ -58,7 +58,7 @@
         border: 6px solid #ccc;
         padding: 15px;
         margin-bottom: 20px;
-        background-color: #67e4e1;
+        background-color: #67e48b;
       }
 
       .entry img {
@@ -76,7 +76,8 @@
       .entry-date {
         font-weight: bold;
         color: #005a9c;
-          text-decoration: underline; 
+          text-decoration: underline;
+          text-decoration-line: wavy
       }
 
      
